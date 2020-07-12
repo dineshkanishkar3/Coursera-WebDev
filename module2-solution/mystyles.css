@@ -1,7 +1,7 @@
 *{box-sizing: border-box;}
 h1{text-align: center;
     font-family: 'sofia';}
-section{ border: 2px ;
+section{ border: 1px ;
          float: left;
          width:30%;  
          margin: 1.5% ; 
